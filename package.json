@@ -1,0 +1,19 @@
+{
+  "name": "munshi",
+  "version": "1.0.0",
+  "description": "Project Munshi",
+  "main": "index.js",
+  "author": "Dhruv Patel",
+  "license": "MIT",
+  "dependencies": {
+    "npm": "^9.5.0",
+    "yarn": "^1.22.19"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "scripts": {
+    "start": "lite-server"
+  },
+  "keywords": []
+}
