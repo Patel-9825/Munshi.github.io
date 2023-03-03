@@ -25,11 +25,17 @@ header
     top: 0;
     left: 0;
     width: 100%;
-    padding: 20px 100px;
+    padding: 5px 30px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     z-index: 99;
+}
+
+.navbar
+{
+    width: 100%;
+    
 }
 
 .logo
@@ -315,7 +321,7 @@ header
 
 .section .container
 {
-    padding-top: 100px;
+    padding-top: 140px;
     padding-bottom: 70px;
     padding-left: 50px;
 }
