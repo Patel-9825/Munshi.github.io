@@ -1,7 +1,7 @@
 {
-  "name": "ICE-6",
+  "name": "Munshi",
   "version": "1.0.0",
-  "description": "ICE 6 for WEBD6201",
+  "description": "Munshi for CAPR6203",
   "main": "index.js",
   "author": "Parth Patel",
   "license": "MIT",
