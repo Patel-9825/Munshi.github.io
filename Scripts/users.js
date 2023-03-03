@@ -1,6 +1,6 @@
 (function(core)
 {
-    class User 
+    class Users 
     {
         // constructor
         constructor(displayName = "", emailAddress="", username="", password="")
