@@ -39,6 +39,11 @@ header
     user-select: none;
 }
 
+.navigation
+{
+    padding-top: 0%;
+}
+
 .navigation a 
 {
     position: relative;
@@ -457,3 +462,4 @@ img
 {
     clip-path: polygon(0 0, 100% 0, 100% 80%, 50% 100%, 0 80%);
 }
+
