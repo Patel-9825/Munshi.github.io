@@ -60,3 +60,4 @@
     core.User = User;
 
 })(core || (core={}));
+// demo
